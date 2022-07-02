@@ -43,7 +43,7 @@ Linear Interpolation
 
 Circular Interpolation
 
-### output
+## Output
 ![i1](https://user-images.githubusercontent.com/94508142/176996136-03f31ac8-0fbf-42e4-ba6f-d30102117ee1.png)
 ![i2](https://user-images.githubusercontent.com/94508142/176996145-d6e5883d-a688-4b2a-9423-937f409072fd.png)
 ![i4](https://user-images.githubusercontent.com/94508142/176996148-c2054036-4a38-4c27-9cec-6f2c9b3fbe14.png)
